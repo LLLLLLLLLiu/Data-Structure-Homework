@@ -123,8 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="bsTree.h" />
-    <ClInclude Include="rbTree.h" />
+    <ClInclude Include="dRedBlackTree.h" />
+    <ClInclude Include="RedBlackTree.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />

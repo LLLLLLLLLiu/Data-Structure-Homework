@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="bsTree.h">
+    <ClInclude Include="RedBlackTree.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="rbTree.h">
+    <ClInclude Include="dRedBlackTree.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
