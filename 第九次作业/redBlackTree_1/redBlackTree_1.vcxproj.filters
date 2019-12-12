@@ -18,34 +18,7 @@
     <ClInclude Include="bsTree.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="dictionary.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="RedBlack.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="RedBlack_Insert.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="RedBlack_remove.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="RedBlack_solveDoubleBlack.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="RedBlack_solveDoubleRed.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="RedBlack_updateHeight.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="BinNode.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="BinTree.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="BST.h">
+    <ClInclude Include="rbTree.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

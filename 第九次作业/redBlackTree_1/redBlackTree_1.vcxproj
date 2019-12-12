@@ -123,17 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="BinNode.h" />
-    <ClInclude Include="BinTree.h" />
-    <ClInclude Include="BST.h" />
     <ClInclude Include="bsTree.h" />
-    <ClInclude Include="dictionary.h" />
-    <ClInclude Include="RedBlack.h" />
-    <ClInclude Include="RedBlack_Insert.h" />
-    <ClInclude Include="RedBlack_remove.h" />
-    <ClInclude Include="RedBlack_solveDoubleBlack.h" />
-    <ClInclude Include="RedBlack_solveDoubleRed.h" />
-    <ClInclude Include="RedBlack_updateHeight.h" />
+    <ClInclude Include="rbTree.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />

@@ -1,22 +1,2 @@
 ﻿  main.cpp
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\BinNode.h(24,16): error C3861: “NULL”: 找不到标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\BinNode.h(43): message : 查看对正在编译的 类 模板 实例化“BinNode<T>”的引用
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\BinNode.h(24,4): error C3861: “NULL”: 找不到标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\BinNode.h(24,4): error C3861: “NULL”: 找不到标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\BinNode.h(25,38): error C3861: “NULL”: 找不到标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\BinNode.h(25,64): error C3861: “NULL”: 找不到标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\BinNode.h(25,90): error C3861: “NULL”: 找不到标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\BinTree.h(18,4): error C3861: “NULL”: 找不到标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\BinTree.h(42): message : 查看对正在编译的 类 模板 实例化“BinTree<T>”的引用
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\BST.h(25,50): error C3861: “_root”: 找不到标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\BST.h(29): message : 查看对正在编译的 类 模板 实例化“BST<T>”的引用
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\BST.h(26,50): error C3861: “_root”: 找不到标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\main.cpp(23,29): error C2065: “print”: 未声明的标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\main.cpp(23,29): error C3861: “print”: 找不到标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\main.cpp(23,34): message : “print”: 函数声明必须可用，因为所有参数都不依赖于模板参数
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\main.cpp(25,60): error C2065: “print”: 未声明的标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\main.cpp(25,60): error C3861: “print”: 找不到标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\main.cpp(25,65): message : “print”: 函数声明必须可用，因为所有参数都不依赖于模板参数
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\main.cpp(31,16): error C2065: “dice”: 未声明的标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\main.cpp(31,16): error C3861: “dice”: 找不到标识符
-D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\main.cpp(31,21): message : “dice”: 函数声明必须可用，因为所有参数都不依赖于模板参数
+  redBlackTree_1.vcxproj -> D:\desktop\github\Data Structure Homework\第九次作业\redBlackTree_1\Debug\redBlackTree_1.exe
